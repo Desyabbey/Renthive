@@ -32,4 +32,4 @@ const Heading: React.FC<HeadingProps> = ({
      );
 }
 
-export default Heading
+export default Heading;
